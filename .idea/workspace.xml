@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9880a65a-d152-4482-ab51-04742710b9ec" name="更改" comment="" />
+    <list default="true" id="9880a65a-d152-4482-ab51-04742710b9ec" name="更改" comment="创建泰坦尼克号项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1752492209102</updated>
     </task>
+    <task id="LOCAL-00001" summary="创建泰坦尼克号项目">
+      <option name="closed" value="true" />
+      <created>1752492467160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752492467160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建泰坦尼克号项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建泰坦尼克号项目" />
   </component>
 </project>
